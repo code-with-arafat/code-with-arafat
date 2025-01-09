@@ -3,16 +3,16 @@
 
 I'm an App Developer. Currently pursuing a Diploma in Engineering in Computer Science and Technology at Rajshahi Polytechnic Institute. I have a passion for learning new things every day and enjoy exploring and acquiring knowledge in diverse areas of technology. Always eager to take on challenges and grow with every experience! 🚀
 
-📌 What I enjoy the most:
-🈸 App Development.
-❤ Love to write code.
-👩‍💻 Solving real-world problems through code.
-💡 Building innovative applications.
+📌 What I enjoy the most: </br>
+🈸 App Development. </br>
+❤ Love to write code. </br>
+👩‍💻 Solving real-world problems through code. </br>
+💡 Building innovative applications. </br>
 🥰 I love to learn something new every day.
 
-My Skills:
-✔ Java
-✔ JS
-✔ HTML
+My Skills: </br>
+✔ Java </br>
+✔ JS </br>
+✔ HTML </br>
 ✔ CSS
 
