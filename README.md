@@ -1,15 +1,18 @@
 ![Programmer](https://media.licdn.com/dms/image/v2/D5616AQH5uu-YqFLiIg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724973444201?e=1741824000&v=beta&t=m41yPwi_jsz6OROWyRTytpKnSAmg6bCFmJieePVOLnM)
 ### My name is Arafat Ferdous
-📌 App Developer.
-❤ Love to write code.
+
+I'm an App Developer. Currently pursuing a Diploma in Engineering in Computer Science and Technology at Rajshahi Polytechnic Institute. I have a passion for learning new things every day and enjoy exploring and acquiring knowledge in diverse areas of technology. Always eager to take on challenges and grow with every experience! 🚀
+
+📌 What I enjoy the most:
+🈸 App Development. </br>
+❤ Love to write code. </br>
+👩‍💻 Solving real-world problems through code. </br>
+💡 Building innovative applications. </br>
 🥰 I love to learn something new every day.
 
-Skills: Java / JS / HTML / CSS
-
- 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/code-with-arafat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arafatalways//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/arafatalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/arafatalways//)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/code-with-arafat)  
+######Skills: </br> 
+✔ Java </br>
+✔ JS </br>
+✔ HTML </br>
+✔ CSS
 
