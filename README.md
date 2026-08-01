@@ -46,5 +46,8 @@ Welcome to my GitHub profile! I focus on building clean, high-performance web ap
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-arafat&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
+# 📈 Activity Graph
+[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-arafat&theme=react-dark&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
-[![](https://komarev.com/ghpvc/?username=code-with-arafat&icon=0&color=0)](https://visitcount.itsvg.in)<img width="1792" height="592" alt="arafatBanner" src="https://github.com/user-attachments/assets/e9ff4c57-dfd1-4f6b-b8e1-6b0d0bac7f8b" />
+[![](https://komarev.com/ghpvc/?username=code-with-arafat&icon=0&color=0)](https://visitcount.itsvg.in)
